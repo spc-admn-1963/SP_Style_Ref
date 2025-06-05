@@ -1,0 +1,39 @@
+* {
+--background-color: #ffffff; /* Background color for the screens */
+--background-image: none; /* Background image for the screens */
+--text-color: #ff0000; /* Bright Red for default text */
+--text-color-light: #00ff00; /* Bright Green for lighter text */
+--border-color: #c6c6c6; /* Default border color */
+--font-family: "Lato", sans-serif; /* Font family for the text */
+--link-color: #0000ff; /* Bright Blue for hyperlinks */
+--primary-background-color: #267490; /* Background color for primary elements */
+--primary-color: #ffa500; /* Orange for primary text */
+--primary-border-color: none; /* Border color for primary elements */
+--secondary-background-color: #ffffff; /* Background color for secondary elements */
+--secondary-color: #800080; /* Purple for secondary text */
+--secondary-border-color: #c6c6c6; /* Border color for secondary elements */
+--error-color: #ff00ff; /* Magenta for error messages */
+--header-background-color: #ffffff; /* Background color for the header */
+--header-height: 60px; /* Height of the header */
+--logo-background-color: transparent; /* Background color for the logo */
+--logo-display: block; /* Display property for the logo */
+--logo-width: 180px; /* Width of the logo */
+--language-selector-background-color: transparent; /* Background color for language selector */
+--content-background-color: #ffffff; /* Background color for the main content area */
+--title-font-size: 40px; /* Font size for titles */
+--title-longer-font-size: 26px; /* Font size for longer titles */
+--title-font-weight: 900; /* Font weight for titles */
+--description-font-size: 15px; /* Font size for descriptions */
+--description-font-weight: 500; /* Font weight for descriptions */
+--description-line-height: 24px; /* Line height for descriptions */
+--label-font-size: 13px; /* Font size for labels */
+--label-font-weight: 600; /* Font weight for labels */
+--input-background-color: #ffffff; /* Background color for input fields */
+--input-border-color: #c6c6c6; /* Border color for input fields */
+--input-color: #008080; /* Teal for input text */
+--checkbox-font-size: 15px; /* Font size for checkboxes */
+--checkbox-font-weight: 500; /* Font weight for checkboxes */
+--footer-background-color: #ffffff; /* Background color for the footer */
+--footer-height: 60px; /* Height of the footer */
+--footer-content-background-color: #ffffff; /* Background color for footer content */
+}
