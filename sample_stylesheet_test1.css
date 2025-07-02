@@ -39,6 +39,7 @@
 }
 
 background-color: #008000;
+input-background-color: #10b0eb; /* Background color for input fields */
 
 /* Reduce vertical spacing between headings and paragraphs */
 h3, h1 {
