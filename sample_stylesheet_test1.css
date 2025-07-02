@@ -38,6 +38,8 @@
 --footer-content-background-color: #ffffff; /* Background color for footer content */
 }
 
+background-color: #008000;
+
 /* Reduce vertical spacing between headings and paragraphs */
 h3, h1 {
   margin-top: 0.5em;
